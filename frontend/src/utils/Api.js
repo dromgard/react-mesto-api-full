@@ -128,7 +128,7 @@ class Api {
 // Создаем экземпляр класса подключения к серверу.
 export const api = new Api({
   // baseUrl: "http://localhost:3001",
-  baseUrl: "https://api.dromgard.nomoredomains.club",
+  baseUrl: "https://api-mesto.api-skorolev.ru",
   headers: {
     Authorization: "",
     "Content-Type": "application/json",
