@@ -24,11 +24,11 @@ Backend реализован на ExpressJS, MongoDB + Mongoose. Реализо�
 
 ### Публикация в интернете:
 
-IP: 62.84.117.255
+IP: 51.250.79.131
 
-[Frontend - http://dromgard.nomoredomains.club](http://dromgard.nomoredomains.club)
+[Frontend - https://mesto.api-skorolev.ru](https://mesto.api-skorolev.ru)
 
-[Backend - https://api.dromgard.nomoredomains.club](https://api.dromgard.nomoredomains.club)
+[Backend - https://api-mesto.api-skorolev.ru](https://api-mesto.api-skorolev.ru)
 
 ### Запуск проекта
 
